@@ -1,2 +1,2 @@
 # springboot-swaggerui
-a exercise of springboot
+我只是想搞一搞springboot和swaggerui
