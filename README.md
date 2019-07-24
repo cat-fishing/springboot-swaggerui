@@ -156,3 +156,5 @@ public class LoginController {
 >Swagger-ui优劣参半，好处多多，动态维护文档，方便自己，方便他人使用；缺点就是侵入性
 
 >Git地址https://github.com/cat-fishing/springboot-swaggerui.git
+![](微信公众号.jpg "嘶嘶嘶")
+![](小程序.jpg "嘶嘶嘶")
